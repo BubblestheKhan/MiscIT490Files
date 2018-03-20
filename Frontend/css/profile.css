@@ -1,0 +1,30 @@
+body, html {
+	height: 100%;
+	margin: 0;
+	font-family: "Impact";
+}
+
+.title {
+	color: #ffffff;
+
+}
+
+.main-content {
+	margin-top: 8px;
+	padding: 20px;
+	border: 1px solid black;
+}
+
+#username {
+	text-transform: uppercase;
+}
+
+#name {
+	text-transform: capitalize;
+	font-size: 20px;
+
+}
+
+.logout {
+	margin-top: 10px;
+}

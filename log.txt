@@ -1,0 +1,12 @@
+[20-Mar-2018 00:18:44 America/New_York] PHP Warning:  require(heyo): failed to open stream: No such file or directory in /var/www/html/errorlog.php on line 10
+[20-Mar-2018 00:18:45 America/New_York] PHP Fatal error:  require(): Failed opening required 'heyo' (include_path='.:/usr/share/php') in /var/www/html/errorlog.php on line 10
+[20-Mar-2018 00:20:33 America/New_York] PHP Notice:  Undefined variable: mysqli_real_escape_string in /var/www/html/login.php on line 6
+[20-Mar-2018 00:20:33 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login.php on line 6
+[20-Mar-2018 00:20:55 America/New_York] PHP Notice:  Undefined variable: mysqli_real_escape_string in /var/www/html/login.php on line 6
+[20-Mar-2018 00:20:55 America/New_York] PHP Fatal error:  Uncaught Error: Function name must be a string in /var/www/html/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/login.php on line 6
